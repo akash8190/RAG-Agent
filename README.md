@@ -48,9 +48,7 @@ Python – Core language
 ✅ Optional memory, tool usage, and agent routing via LangChain
 
 ## Architecture
-text
-Copy
-Edit
+
 User Query
    ↓
 Retriever ← Embeddings ← Chunked Docs ← Raw Data
