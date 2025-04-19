@@ -47,7 +47,7 @@ Python – Core language
 
 ✅ Optional memory, tool usage, and agent routing via LangChain
 
-🏗️ Architecture
+## Architecture
 text
 Copy
 Edit
