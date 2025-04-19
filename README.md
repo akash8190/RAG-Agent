@@ -23,7 +23,7 @@ This project implements a modular and scalable RAG pipeline using:
 
 💬 Conversational AI with context awareness
 
-⚙️ Tech Stack
+## Tech Stack
 LangChain – for chaining the RAG components
 
 OpenAI / Anthropic Claude – LLM backend
@@ -34,7 +34,7 @@ Streamlit / Gradio / Flask – Frontend interface (optional)
 
 Python – Core language
 
-🚀 Features
+## Features
 ✅ Upload and parse PDFs, text, CSVs, Notion, and web content
 
 ✅ Generate embeddings using OpenAI or HuggingFace
